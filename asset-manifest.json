@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mercymaloba/component-composition.git/static/css/main.c3b3c9ba.css",
+    "main.js": "/mercymaloba/component-composition.git/static/js/main.7f896ed7.js",
+    "index.html": "/mercymaloba/component-composition.git/index.html",
+    "main.c3b3c9ba.css.map": "/mercymaloba/component-composition.git/static/css/main.c3b3c9ba.css.map",
+    "main.7f896ed7.js.map": "/mercymaloba/component-composition.git/static/js/main.7f896ed7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3b3c9ba.css",
+    "static/js/main.7f896ed7.js"
+  ]
+}
